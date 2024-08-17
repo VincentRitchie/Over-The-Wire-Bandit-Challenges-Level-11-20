@@ -19,7 +19,7 @@ This repository contains detailed walkthroughs and solutions for Levels 11 to 20
 # Level 11
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-11.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
 
 ## Level 11 Table of Contents
@@ -65,7 +65,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 11 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-11-Screenshot.png" alt="Bandit Level 11 Screenshot" width="650" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW%20-%20Bandit%20Level%2011.png" alt="Bandit Level 11 Screenshot" width="650" />
 </a>
 
 <br>
@@ -75,7 +75,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 # Level 12
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-12.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
 
 ## Level 12 Table of Contents
@@ -121,7 +121,8 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 12 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-12-Screenshot.png" alt="Bandit Level 12 Screenshot" width="650" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW%20-%20Bandit%20Level%2012.png
+" alt="Bandit Level 12 Screenshot" width="650" />
 </a>
 
 <br>
@@ -131,9 +132,8 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 # Level 13
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-13.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
-
 ## Level 13 Table of Contents
 - [Description](#description)
 - [Pseudocode](#pseudocode)
@@ -177,7 +177,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 13 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-13-Screenshot.png" alt="Bandit Level 13 Screenshot" width="650" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW%20-%20Bandit%20Level%2011.png" alt="Bandit Level 13 Screenshot" width="650" />
 </a>
 
 <br>
@@ -187,7 +187,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 # Level 14
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-14.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
 
 ## Level 14 Table of Contents
@@ -233,7 +233,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 14 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-14-Screenshot.png" alt="Bandit Level 14 Screenshot" width="650" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW%20-%20Bandit%20Level%2014.png" alt="Bandit Level 14 Screenshot" width="650" />
 </a>
 
 <br>
@@ -244,9 +244,8 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 # Level 15
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-15.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
-
 ## Level 15 Table of Contents
 - [Description](#description)
 - [Pseudocode](#pseudocode)
@@ -290,7 +289,7 @@ ssh bandit15@bandit.labs.overthewire.org -p 2220
 
 ### Level 15 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-15-Screenshot.png" alt="Bandit Level 15 Screenshot" width="650" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW%20-%20Bandit%20Level%2015.png" alt="Bandit Level 15 Screenshot" width="650" />
 </a>
 
 <br>
@@ -300,7 +299,7 @@ ssh bandit15@bandit.labs.overthewire.org -p 2220
 # Level 16
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-16.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
 
 ## Level 16 Table of Contents
@@ -345,7 +344,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 16 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-16-Screenshot.png" alt="Bandit Level 16 Screenshot" width="650" />
+  <img src="#" alt="Bandit Level 16 Screenshot" width="650" />
 </a>
 
 <br>
@@ -355,7 +354,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 # Level 17
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-17.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
 
 ## Level 17 Table of Contents
@@ -400,7 +399,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 17 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-17-Screenshot.png" alt="Bandit Level 17 Screenshot" width="650" />
+  <img src="#" alt="Bandit Level 17 Screenshot" width="650" />
 </a>
 
 <br>
@@ -410,7 +409,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 # Level 18
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-18.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
 
 ## Level 18 Table of Contents
@@ -456,7 +455,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 18 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-18-Screenshot.png" alt="Bandit Level 18 Screenshot" width="650" />
+  <img src="#" alt="Bandit Level 18 Screenshot" width="650" />
 </a>
 
 <br>
@@ -466,7 +465,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 # Level 19
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-19.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
 
 ## Level 19 Table of Contents
@@ -512,20 +511,18 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 19 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-19-Screenshot.png" alt="Bandit Level 19 Screenshot" width="650" />
+  <img src="#" alt="Bandit Level 19 Screenshot" width="650" />
 </a>
 
 <br>
 <br>
 <br>
-
 
 # Level 20
 
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-20.png" width="500" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" height="350" width="500" />
 </a>
-
 ## Level 20 Table of Contents
 - [Description](#description)
 - [Pseudocode](#pseudocode)
@@ -569,5 +566,5 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 20 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW-Bandit-Level-20-Screenshot.png" alt="Bandit Level 20 Screenshot" width="650" />
+  <img src="#" alt="Bandit Level 20 Screenshot" width="650" />
 </a>
