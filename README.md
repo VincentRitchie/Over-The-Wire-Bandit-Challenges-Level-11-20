@@ -121,8 +121,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Level 12 Screenshot
 <a>
-  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW%20-%20Bandit%20Level%2012.png
-" alt="Bandit Level 12 Screenshot" width="650" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/OTW%20-%20Bandit%20Level%2012.png" alt="Bandit Level 12 Screenshot" width="650" />
 </a>
 
 <br>
